@@ -15,10 +15,9 @@ So, Before You Start reading, here are my some tips which will help you to remem
 
 <img align="center" src="https://raw.githubusercontent.com/thevedicdev/markdown-for-noobs/main/assets/richard-feynman-quote.png" width="100%" height=auto></img>
 
+2. The guide has a Q&A style format. Most of the questions will lead to another question. This will help in better understanding.
 
-2 The guide has a Q&A style format. Most of the questions will lead to another question. This will help in better understanding.
-
-1. The answers are in numbers and points, which will help you to absorb most out of it.
+3. The answers are in numbers and points, which will help you to absorb most out of it.
 
 Markdown is a markup language used to add formatting elements to plain text documents. Today it is the most used language for Documentation and Technical Writing by the developers.
 
