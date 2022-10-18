@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/thevedicdev/markdown-for-noobs/main/assets/markdown-for-noobs.png"></img>
+<img align="center" src="https://raw.githubusercontent.com/thevedicdev/markdown-for-noobs/main/assets/markdown-for-noobs.png" width="100%" height=auto></img>
 
 <h2 align="center"><a href="https://blogs.thevedicdev.com/markdown-for-noobs">Hashnode</a> | <a href="https://dev.to/thevedicdev/kubernetes-for-noobs-425k">Dev.to </a>| <a href="https://medium.com/@thevedicdev/kubernetes-for-noobs-8008ad24e643"> Medium </a> | Hackernoon | <a href="https://github.com/thevedicdev/markdown-for-noobs#readme">GitHub</a></h3>
 
