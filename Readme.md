@@ -15,16 +15,26 @@ So, Before You Start reading, here are my some tips which will help you to remem
 
 <img align="center" src="https://raw.githubusercontent.com/thevedicdev/markdown-for-noobs/main/assets/richard-feynman-quote.png" width="100%" height=auto></img>
 
-2. The guide has a Q&A style format. Most of the questions will lead to another question. This will help in better understanding.
+2. The guide has a `Q&A style`format. Most of the questions will lead to another question. This will help in better understanding.
 
 3. The answers are in numbers and points, which will help you to absorb most out of it.
+---
+### What is Markdown ?
 
-Markdown is a markup language used to add formatting elements to plain text documents. Today it is the most used language for Documentation and Technical Writing by the developers.
+1. Markdown is a `markup language` used to add formatting elements (modifying the display of a text like bolding and underline) to plain text documents.
+2. Today Markdown is the most used language for **websites**, **documents**, **notes**, **books**, **presentations**, **email messages** and t**echnical documentation**.
+3. Blogging platform like `Hashnode` and `Dev.to` also use Markdown as their primary format for writing.
 
-Blogging platform like Hashnode and Dev.to use markdown use Markdown as their primary format for writing.
+Therefore it is very important to learn Markdown for all those people who have ⌨️ Keyboards in their hands right now and is a Software Enginneer by mistake (like me 😅).
 
-There it is very important for those people who are having ⌨️ Keyboards in their hands.
+### What is a Markup Language ?
 
-<!-- TODO: where to use markdown-->
+1. Markup language is a type of language where we use certain symbols and make rules using them to control the style of the plain text.
+2. Some smart people call these rules as `encoding` 😂.
+3. Text style like **structure**, **format** (e.g. **bold**, _italic_, ~~strikethrough~~,  <u>Underline</u> etc) or the relationship between different parts of the texts (e.g. links) can be controlled with the help of a markup language.
+4. There are many other markup languages. Some of them are [TeX](https://en.wikipedia.org/wiki/TeX), [LateX](https://en.wikipedia.org/wiki/LaTeX), [Scribe](https://en.wikipedia.org/wiki/Scribe_(markup_language)), [XML](https://en.wikipedia.org/wiki/XML), [HTML](https://en.wikipedia.org/wiki/HTML), etc.
 
-The guide `Markdown For Noobs` will extensively explains you how to use different markdown syntax.
+### What is Encoding ?
+
+Converting information from a some **source** into some `symbols` for communation and storage. And Decoding is the just opposite, converting `symbols` back into some form which recepient can understand like Music, Video, Text like English,etc.
+
