@@ -42,7 +42,7 @@ Therefore it is very important to learn Markdown for all those people who have â
 
 Converting information from a some **source** into some `symbols` for communation and storage. And Decoding is the just opposite, converting `symbols` back into some form which recepient can understand like Music, Video, Text like English,etc.
 
-> So, `MARKDOWN` is type of language where we follow certain sets of rules to modify different component of our plain text document
+> So, `MARKDOWN` is type of language where we follow certain sets of rules to modify different component of our plain text document.
 
 ### ðŸ‘‰ What you can modify in plain text documents ?
 
