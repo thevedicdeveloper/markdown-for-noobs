@@ -4,7 +4,7 @@
 
 <h2 align="center"><a href="https://blogs.thevedicdev.com/markdown-for-noobs">Hashnode</a> | <a href="https://dev.to/thevedicdev/kubernetes-for-noobs-425k">Dev.to </a>| <a href="https://medium.com/@thevedicdev/kubernetes-for-noobs-8008ad24e643"> Medium </a> | Hackernoon | <a href="https://github.com/thevedicdev/markdown-for-noobs#readme">GitHub</a></h3>
 
-### ⚡️ Before Your Start
+### ⚡️ Before You Start
 
 The guide Markdown For Noobs will explain every fundamental thing about the Markdown. The basic question which may comes to your mind is also answered here.
 
@@ -17,9 +17,7 @@ So, Before You Start reading, here are my some tips which will help you to remem
 
 <img align="center" src="https://raw.githubusercontent.com/thevedicdev/markdown-for-noobs/main/assets/richard-feynman-quote.png" width="100%" height=auto></img>
 
-2. The guide has a `Q & A style` format. The concepts are explained by asking answering questions.
-
-    Most of the questions will lead to another question. This will help you in better understanding.
+2. The guide has a `Q & A style` format. The concepts are explained by answering questions. Most of the questions will lead to another question. This will help you in better understanding. So, while reading the guide, try to `REMEMBER THE QUESTIONS`.
 
 3. The questions are answered in numbers and points, this will help you to absorb most out of it.
 
@@ -27,11 +25,12 @@ So, Before You Start reading, here are my some tips which will help you to remem
 
 ### 👉 What is Markdown ?
 
-1. Markdown is a `markup language` used to add formatting elements (modifying the display of a text like bolding and underline) to plain text documents.
+1. Markdown is a `markup language` used to for styling and formatting elements (modifying the display of a text like bolding and underline) to plain text documents.
 2. Today Markdown is the most used language for **websites**, **documents**, **notes**, **books**, **presentations**, **email messages** and t**echnical documentation**.
 3. Blogging platform like `Hashnode` and `Dev.to` also use Markdown as their primary format for writing.
+4. A Markdown file ends with `.md` extensions.
 
-Therefore it is very important to learn Markdown for all those people who have ⌨️ Keyboards in their hands right now and is a Software Enginneer by mistake (like me 😅).
+> Therefore it is very important to learn Markdown for all those people who have ⌨️ Keyboards in their hands right now and is a Software Enginneer by mistake (like me 😅).
 
 ### 👉 What is a Markup Language ?
 
